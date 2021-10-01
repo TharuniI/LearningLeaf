@@ -4,10 +4,10 @@ Before you submit your project, modify the following table to include everyone's
 
 | Group Member Name          | GitHub Username    |
 | :------------------------- |:------------------:|
-| Deepan Patel | @deepan-patel |
-| Tharuni Iranjan | @TharuniI |
-| Tirth Patel | @TirthPOnTechU |
-| Setu Patel | @Setuuu |
+| Deepan Patel | [deepan-patel](https://github.com/deepan-patel) |
+| Tharuni Iranjan | [TharuniI](https://github.com/TharuniI) |
+| Tirth Patel | [TirthPOnTechU](https://github.com/TirthPOnTechU) |
+| Setu Patel | [Setuuu](https://github.com/Setuuu) |
 
 
 ## Getting Started
